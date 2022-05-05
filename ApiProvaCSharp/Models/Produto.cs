@@ -6,26 +6,25 @@ namespace ApiProvaCSharp.Models
     [Table("Produtos")]
     public class Produto
     {
-    
-        [Key]
+
         [JsonIgnore]
-        [Column("id")]
-        public int Id { get; set; }
+        [Key, Column("id")]
+        public uint Id { get; set; }
 
-        [Required]
+        //não sao permitidos carcateres numerios, especiais ou acentuação
+        [Required(AllowEmptyStrings = false), RegularExpression(@"^\w|\s*$")]
         [Column("nome")]
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
 
-        [Required]
-        [JsonPropertyName("valor_unitario")]
-        [Column("valor_unitario")]
-        public float ValorUnitario { get; set; }
 
-        [Required]
-        [JsonPropertyName("qtde_estoque")]
-        [Column("qtde_estoque")]
-        public int QtdeEstoque { get; set; }
+        [JsonPropertyName("valor_unitario"), Column("valor_unitario")]
+        [Required, Range(0.0d, double.PositiveInfinity)]
+        public double ValorUnitario { get; set; }
 
-     
+        [JsonPropertyName("qtde_estoque"), Column("qtde_estoque")]
+        [Required, Range(0, uint.MaxValue)]
+        public uint QtdeEstoque { get; set; }
+
+
     }
 }

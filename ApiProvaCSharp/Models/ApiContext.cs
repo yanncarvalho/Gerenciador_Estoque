@@ -7,7 +7,7 @@ namespace ApiProvaCSharp.Models
         public ApiContext(DbContextOptions<ApiContext> options) : base(options)
         {
         }
-        public DbSet<Produto> Produtos { get; set; }
-        public DbSet<Venda> Vendas { get; set; }
-        }
+        public DbSet<Produto> Produtos { get; set; } = null!;
+        public DbSet<Venda> Vendas { get; set; } = null!;
+    }
 }

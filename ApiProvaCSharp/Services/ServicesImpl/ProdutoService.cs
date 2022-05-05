@@ -1,5 +1,5 @@
 ﻿using ApiProvaCSharp.Models;
-using ApiProvaSharp.Dto;
+using ApiProvaCSharp.Dto;
 
 namespace ApiProvaCSharp.Services.ServicesImpl
 {
@@ -13,48 +13,44 @@ namespace ApiProvaCSharp.Services.ServicesImpl
             _context = context;
         }
 
-        public ProdutoPorId? buscarPorId(int id)
+        public ProdPorIdDto? BuscarPorId(int? id)
         {
           var produto = _context.Produtos.Find(id);
-            if (produto == null)
-            {
-                return null;
+            if (produto is null) { 
+                throw new InvalidOperationException("Ocorreu um erro desconhecido");
             }
 
             var venda = _context.Vendas.OrderByDescending(v => v.Data).Where(venda => venda.IdProduto == produto.Id).FirstOrDefault();
 
-          return new ProdutoPorId(produto, venda);
-         
+          return new ProdPorIdDto(produto, venda);
+
         }
 
-        public Produto[] buscarTodos()
+        public Produto[] BuscarTodos()
         {
             return _context.Produtos.ToArray();
         }
 
-        public bool cadastrar(Produto produto)
-        { 
+        public void Cadastrar(Produto produto)
+        {
             _context.Produtos.Add(produto);
             _context.SaveChanges();
-            return true;
+
         }
 
-        public bool Remover(int id)
+        public void Remover(int id)
         {
             var produto = _context.Produtos.Find(id);
-            if (produto != null)
+            if (produto is null)
             {
-                var vendasProduto  = (from venda in _context.Vendas where venda.IdProduto == produto.Id select venda).ToArray();
-            
-                _context.Vendas.RemoveRange(vendasProduto); 
-                _context.Produtos.Remove(produto);
-                _context.SaveChanges();
-                return true;
-
+                throw new InvalidOperationException("Ocorreu um erro desconhecido");
             }
 
-            return false;
+            var vendasProduto  = (from venda in _context.Vendas where venda.IdProduto == produto.Id select venda).ToArray();
 
+                _context.Vendas.RemoveRange(vendasProduto);
+                _context.Produtos.Remove(produto);
+                _context.SaveChanges();
         }
     }
 }

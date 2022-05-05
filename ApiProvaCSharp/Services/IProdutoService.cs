@@ -1,16 +1,17 @@
 ﻿using ApiProvaCSharp.Models;
-using ApiProvaSharp.Dto;
+using ApiProvaCSharp.Dto;
 
 namespace ApiProvaCSharp.Services
 {
     public interface IProdutoService
     {
-      public bool cadastrar(Produto produto);
+      public void Cadastrar(Produto produto);
 
-      public Produto[] buscarTodos();
+      public Produto[] BuscarTodos();
 
-      public ProdutoPorId buscarPorId(int id);
+      public ProdPorIdDto? BuscarPorId(int? id);
 
-     public bool Remover(int id);
+      public void Remover(int id);
+
     }
 }

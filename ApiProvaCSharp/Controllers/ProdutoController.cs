@@ -1,8 +1,7 @@
 ﻿using ApiProvaCSharp.Models;
 using ApiProvaCSharp.Services;
-using ApiProvaCSharp.Services.ServicesImpl;
 using Microsoft.AspNetCore.Mvc;
-
+using Swashbuckle.AspNetCore.Annotations;
 using System.Net.Mime;
 
 
@@ -10,6 +9,8 @@ namespace ApiProvaCSharp.Controllers
 {
     [Route("/api/produtos")]
     [ApiController]
+
+      [SwaggerResponse(400, description: "retorna: Ocorreu um erro desconhecido")]
     public class ProdutoController : Controller
     {
         private readonly IProdutoService _service;
@@ -20,57 +21,43 @@ namespace ApiProvaCSharp.Controllers
         }
 
         [HttpPost]
-        [Produces(MediaTypeNames.Application.Json)]
-        [Consumes(MediaTypeNames.Application.Json)]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        [ProducesResponseType(StatusCodes.Status412PreconditionFailed)]
-        //TODO filtro para erro 402
-        public ActionResult cadastrar([FromBody] Produto produto)
+        [Produces(MediaTypeNames.Application.Json), Consumes(MediaTypeNames.Application.Json)]
+        [SwaggerResponse(200)]
+        [SwaggerResponse(412, description: "retorna: Os valores informados não são válidos")]
+        public ActionResult Cadastrar([FromBody] Produto produto)
         {
-            _service.cadastrar(produto);
-            return Ok();
+            _service.Cadastrar(produto);
+            return Ok("Produto Cadastrado");
 
         }
 
         [HttpGet]
         [Produces(MediaTypeNames.Application.Json)]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult buscarTodos()
+        [SwaggerResponse(200, type: typeof(Produto[]))]
+        public ActionResult BuscarTodos()
         {
-            Produto[] produtos = _service.buscarTodos();
+            Produto[] produtos = _service.BuscarTodos();
             return Ok(produtos);
 
         }
 
         [HttpGet("{produtoId}")]
-        [Produces(MediaTypeNames.Application.Json)]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult buscarPorId(int produtoId)
+        [Produces(MediaTypeNames.Application.Json), Consumes(MediaTypeNames.Application.Json)]
+        [SwaggerResponse(200, type: typeof(Produto))]
+        public ActionResult BuscarPorId (int produtoId)
         {
-            var produto = _service.buscarPorId(produtoId);
-            if (produto == null)
-            {
-                return BadRequest(new { mensagem = "Ocorreu um erro desconhecido"});
-            }
+            var produto = _service.BuscarPorId(produtoId);
             return Ok(produto);
 
         }
 
         [HttpDelete("{produtoId}")]
-        [Produces(MediaTypeNames.Application.Json)]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public ActionResult Remover(int produtoId)
+        [Produces(MediaTypeNames.Application.Json), Consumes(MediaTypeNames.Application.Json)]
+        [SwaggerResponse(200, description: "retorna: Produto excluído com sucesso")]
+        public ActionResult Remover (int produtoId)
         {
-            var hasRemoved = _service.Remover(produtoId);
-            if (!hasRemoved)
-            {
-                return BadRequest(new { mensagem = "Ocorreu um erro desconhecido" });
-            }
-            return Ok(new { mensagem = "Produto excluído com sucesso" });
+            _service.Remover(produtoId);
+            return Ok ("Produto excluído com sucesso");
 
         }
 

@@ -44,3 +44,124 @@ C:\Users\Yann Gabriel\Documents\Programação\C#\ApiProvaCSharp\ApiProvaCSharp\o
 C:\Users\Yann Gabriel\Documents\Programação\C#\ApiProvaCSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.pdb
 C:\Users\Yann Gabriel\Documents\Programação\C#\ApiProvaCSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.genruntimeconfig.cache
 C:\Users\Yann Gabriel\Documents\Programação\C#\ApiProvaCSharp\ApiProvaCSharp\obj\Debug\net6.0\ref\ApiProvaSharp.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\appsettings.json
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ApiProvaSharp.exe
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ApiProvaSharp.deps.json
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ApiProvaSharp.runtimeconfig.json
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ApiProvaSharp.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ApiProvaSharp.pdb
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.csproj.AssemblyReference.cache
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.AssemblyInfoInputs.cache
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.AssemblyInfo.cs
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.csproj.CoreCompileInputs.cache
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\scopedcss\bundle\ApiProvaSharp.styles.css
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.csproj.CopyComplete
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\refint\ApiProvaSharp.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.pdb
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.genruntimeconfig.cache
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ref\ApiProvaSharp.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.csproj.AssemblyReference.cache
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.AssemblyInfoInputs.cache
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.AssemblyInfo.cs
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.csproj.CoreCompileInputs.cache
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\refint\ApiProvaSharp.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.pdb
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\appsettings.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ApiProvaSharp.exe
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ApiProvaSharp.deps.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ApiProvaSharp.runtimeconfig.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ApiProvaSharp.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ApiProvaSharp.pdb
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\scopedcss\bundle\ApiProvaSharp.styles.css
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.csproj.CopyComplete
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.genruntimeconfig.cache
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ref\ApiProvaSharp.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\obj\Debug\net6.0\ApiProvaSharp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\libman.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\Prova_API_CSharp\ApiProvaCSharp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll

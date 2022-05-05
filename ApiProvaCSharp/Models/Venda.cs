@@ -6,20 +6,21 @@ namespace ApiProvaCSharp.Models
     [Table("vendas")]
     public class Venda
     {
-        [Key]
-        [Column("id")]
-        public int Id { get; set; }
+        [Key, Column("id")]
+        [Required, Range(1, uint.MaxValue)]
+        public uint Id { get; set; }
 
         [Column("data")]
         public DateTime? Data { get; set; }
 
 
         [Column("valor_produto")]
-        public float? ValorProduto { get; set; }
+        [Required, Range(0.0, double.PositiveInfinity)]
+        public double? ValorProduto { get; set; }
 
-        [ForeignKey("Produto")]
-        [Column("id_produtos")]
-        public int IdProduto { get; set; }
+        [ForeignKey("Produto"), Column("id_produtos")]
+        [Required, Range(1, uint.MaxValue)]
+        public uint IdProduto { get; set; }
 
 
     }
