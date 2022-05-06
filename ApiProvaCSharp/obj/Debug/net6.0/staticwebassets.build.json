@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "Irk4rBDbij5QIudEpMVTvd2ClZMbsKaaYIqSKwa4r9Q=",
-  "Source": "ApiProvaSharp",
-  "BasePath": "_content/ApiProvaSharp",
+  "Hash": "SAiYHXyu5xYVX2ZF1BU5esbc/dNXscbjZUBeRG/REjs=",
+  "Source": "ApiProvaCSharp",
+  "BasePath": "_content/ApiProvaCSharp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

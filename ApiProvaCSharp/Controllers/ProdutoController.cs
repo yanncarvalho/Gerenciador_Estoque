@@ -3,14 +3,13 @@ using ApiProvaCSharp.Services;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
 using System.Net.Mime;
-
+using System.ComponentModel.DataAnnotations;
 
 namespace ApiProvaCSharp.Controllers
 {
     [Route("/api/produtos")]
     [ApiController]
-
-      [SwaggerResponse(400, description: "retorna: Ocorreu um erro desconhecido")]
+    [SwaggerResponse(400, description: "retorna: Ocorreu um erro desconhecido")]
     public class ProdutoController : Controller
     {
         private readonly IProdutoService _service;
@@ -44,7 +43,7 @@ namespace ApiProvaCSharp.Controllers
         [HttpGet("{produtoId}")]
         [Produces(MediaTypeNames.Application.Json), Consumes(MediaTypeNames.Application.Json)]
         [SwaggerResponse(200, type: typeof(Produto))]
-        public ActionResult BuscarPorId (int produtoId)
+        public ActionResult BuscarPorId ([Range(1, int.MaxValue)] int produtoId)
         {
             var produto = _service.BuscarPorId(produtoId);
             return Ok(produto);
@@ -54,7 +53,7 @@ namespace ApiProvaCSharp.Controllers
         [HttpDelete("{produtoId}")]
         [Produces(MediaTypeNames.Application.Json), Consumes(MediaTypeNames.Application.Json)]
         [SwaggerResponse(200, description: "retorna: Produto excluído com sucesso")]
-        public ActionResult Remover (int produtoId)
+        public ActionResult Remover ([Required, Range(1, int.MaxValue)] int produtoId)
         {
             _service.Remover(produtoId);
             return Ok ("Produto excluído com sucesso");

@@ -17,7 +17,7 @@ namespace ApiProvaCSharp.Services.ServicesImpl
          public void Comprar(ComprarProdDto compra){
 
             Produto? produto = _context.Produtos.Find(compra.ProdutoId);
-            if(produto == null || compra.QtComprada > produto.QtdeEstoque){
+            if(produto is null || compra.QtComprada > produto.QtdeEstoque){
                 throw new InvalidOperationException("Ocorreu um erro desconhecido");
             }
              produto.QtdeEstoque -= compra.QtComprada;

@@ -1,11 +1,12 @@
 ﻿using ApiProvaCSharp.Models;
+using Newtonsoft.Json;
 using System.Text.Json.Serialization;
 
 namespace ApiProvaCSharp.Dto
 {
     public class ProdPorIdDto
     {
-        public ProdPorIdDto(Produto produto, Venda? venda)
+        public ProdPorIdDto(Produto produto, Venda venda)
         {
             if(venda != null)
             {
@@ -14,28 +15,28 @@ namespace ApiProvaCSharp.Dto
             }
 
             IdProduto = produto.Id;
-            Nome = produto.Nome;
+            Nome = produto.Nome!;
             QtdeEstoque = produto.QtdeEstoque;
             ValUnitario = produto.ValorUnitario;
 
         }
 
-        public string? Nome { get; set; }
+        public string Nome { get; set; }
 
-        [JsonPropertyName("valor_unitario")]
+        [JsonProperty("valor_unitario")]
         public double ValUnitario { get; set; }
 
-        [JsonPropertyName("qtde_estoque")]
-        public uint QtdeEstoque { get; set; }
+        [JsonProperty("qtde_estoque")]
+        public int QtdeEstoque { get; set; }
 
-        [JsonPropertyName("dt_ult_venda")]
+        [JsonProperty("dt_ult_venda")]
         public DateTime? DtUltVenda { get; set; }
 
-        [JsonPropertyName("val_ult_venda")]
-        public double? ValUltVenda { get; set; }
+        [JsonProperty("val_ult_venda")]
+        public double ValUltVenda { get; set; }
 
-        [JsonPropertyName("id_produto")]
-        public uint IdProduto { get; set; }
+        [JsonProperty("id_produto")]
+        public int IdProduto { get; set; }
 
     }
 }

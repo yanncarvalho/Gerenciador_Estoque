@@ -30,9 +30,9 @@ void ConfigureServices(IServiceCollection services, IConfiguration Configuration
 
     services.AddEndpointsApiExplorer();
 
-    var connection = Configuration["MySql:Connection"];
-    services.AddDbContext<ApiContext>(options =>
-        options.UseMySQL(connection)
+    var connection = Configuration["SqlServer:Connection"];
+    services.AddDbContext<ApiContext>(
+        options => options.UseSqlServer(connection)
     );
 }
 

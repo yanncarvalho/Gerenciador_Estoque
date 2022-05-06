@@ -5,22 +5,17 @@ namespace ApiProvaCSharp.Services.ServicesImpl
 {
     public class ProdutoService : IProdutoService
     {
-        private readonly ApiContext _context;
-
+        private readonly ApiContext _Context;
 
         public ProdutoService(ApiContext context)
         {
-            _context = context;
+            _Context = context;
         }
 
         public ProdPorIdDto? BuscarPorId(int? id)
         {
-          var produto = _context.Produtos.Find(id);
-            if (produto is null) { 
-                throw new InvalidOperationException("Ocorreu um erro desconhecido");
-            }
-
-            var venda = _context.Vendas.OrderByDescending(v => v.Data).Where(venda => venda.IdProduto == produto.Id).FirstOrDefault();
+          var produto = _Context.Produtos.Find(id)!;
+          var venda = _Context.Vendas.OrderByDescending(v => v.Data).Where(venda => venda.IdProduto == produto.Id).FirstOrDefault()!;
 
           return new ProdPorIdDto(produto, venda);
 
@@ -28,29 +23,25 @@ namespace ApiProvaCSharp.Services.ServicesImpl
 
         public Produto[] BuscarTodos()
         {
-            return _context.Produtos.ToArray();
+            return _Context.Produtos.ToArray();
         }
 
         public void Cadastrar(Produto produto)
         {
-            _context.Produtos.Add(produto);
-            _context.SaveChanges();
+            _Context.Produtos.Add(produto);
+            _Context.SaveChanges();
 
         }
 
         public void Remover(int id)
         {
-            var produto = _context.Produtos.Find(id);
-            if (produto is null)
-            {
-                throw new InvalidOperationException("Ocorreu um erro desconhecido");
-            }
+            var produto = _Context.Produtos.Find(id)!;
 
-            var vendasProduto  = (from venda in _context.Vendas where venda.IdProduto == produto.Id select venda).ToArray();
+            var vendasProduto  = (from venda in _Context.Vendas where venda.IdProduto == produto.Id select venda).ToArray();
 
-                _context.Vendas.RemoveRange(vendasProduto);
-                _context.Produtos.Remove(produto);
-                _context.SaveChanges();
+            _Context.Vendas.RemoveRange(vendasProduto);
+            _Context.Produtos.Remove(produto);
+            _Context.SaveChanges();
         }
     }
 }

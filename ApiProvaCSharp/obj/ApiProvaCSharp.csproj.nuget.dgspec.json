@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yann Gabriel\\Documents\\Programação\\C#\\ApiProvaCSharp\\ApiProvaCSharp\\ApiProvaCSharp.csproj": {}
+    "C:\\Users\\Yann Gabriel\\Documents\\temp\\ApiProvaCSharp\\ApiProvaCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yann Gabriel\\Documents\\Programação\\C#\\ApiProvaCSharp\\ApiProvaCSharp\\ApiProvaCSharp.csproj": {
+    "C:\\Users\\Yann Gabriel\\Documents\\temp\\ApiProvaCSharp\\ApiProvaCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yann Gabriel\\Documents\\Programação\\C#\\ApiProvaCSharp\\ApiProvaCSharp\\ApiProvaCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Yann Gabriel\\Documents\\temp\\ApiProvaCSharp\\ApiProvaCSharp.csproj",
         "projectName": "ApiProvaCSharp",
-        "projectPath": "C:\\Users\\Yann Gabriel\\Documents\\Programação\\C#\\ApiProvaCSharp\\ApiProvaCSharp\\ApiProvaCSharp.csproj",
+        "projectPath": "C:\\Users\\Yann Gabriel\\Documents\\temp\\ApiProvaCSharp\\ApiProvaCSharp.csproj",
         "packagesPath": "C:\\Users\\Yann Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yann Gabriel\\Documents\\Programação\\C#\\ApiProvaCSharp\\ApiProvaCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Yann Gabriel\\Documents\\temp\\ApiProvaCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yann Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,13 +40,45 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.4, )"
             },
-            "MySql.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Newtonsoft": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

@@ -1,13 +1,17 @@
 ﻿using Microsoft.EntityFrameworkCore;
 namespace ApiProvaCSharp.Models
 {
-    public class ApiContext : DbContext
+ 
+      
 
+    public class ApiContext : DbContext
     {
-        public ApiContext(DbContextOptions<ApiContext> options) : base(options)
-        {
-        }
-        public DbSet<Produto> Produtos { get; set; } = null!;
-        public DbSet<Venda> Vendas { get; set; } = null!;
+        public ApiContext() { }
+        public ApiContext(DbContextOptions<ApiContext> options)
+            : base(options) { }
+        public virtual DbSet<Produto> Produtos { get; set; } = null!;
+        public virtual DbSet<Venda> Vendas { get; set; } = null!;
+       
     }
+    
 }

@@ -1,29 +1,31 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Newtonsoft.Json;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Text.Json.Serialization;
+
 namespace ApiProvaCSharp.Models
 {
     [Table("Produtos")]
     public class Produto
     {
 
-        [JsonIgnore]
+        
         [Key, Column("id")]
-        public uint Id { get; set; }
+        [Newtonsoft.Json.JsonIgnore]
+        public int Id { get; set; }
 
-        //não sao permitidos carcateres numerios, especiais ou acentuação
-        [Required(AllowEmptyStrings = false), RegularExpression(@"^\w|\s*$")]
-        [Column("nome")]
+      
+        [Required(AllowEmptyStrings = false), MaxLength(255)]
+        [Column("nome"), JsonProperty("nome")]
         public string? Nome { get; set; }
 
 
-        [JsonPropertyName("valor_unitario"), Column("valor_unitario")]
-        [Required, Range(0.0d, double.PositiveInfinity)]
+        [JsonProperty("valor_unitario"), Column("valor_unitario")]
+        [JsonRequired, Range(0.0d, double.MaxValue)]
         public double ValorUnitario { get; set; }
 
-        [JsonPropertyName("qtde_estoque"), Column("qtde_estoque")]
-        [Required, Range(0, uint.MaxValue)]
-        public uint QtdeEstoque { get; set; }
+        [JsonProperty("qtde_estoque"), Column("qtde_estoque")]
+        [JsonRequired, Range(0, int.MaxValue)]
+        public int QtdeEstoque { get; set; }
 
 
     }

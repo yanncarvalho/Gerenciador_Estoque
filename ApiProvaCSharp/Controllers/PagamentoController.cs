@@ -6,7 +6,7 @@ using System.Net.Mime;
 
 using ApiProvaCSharp.Dto;
 using Swashbuckle.AspNetCore.Annotations;
-
+using System.ComponentModel.DataAnnotations;
 
 namespace ApiProvaCSharp.Controllers
 {
@@ -17,7 +17,7 @@ namespace ApiProvaCSharp.Controllers
         [Produces(MediaTypeNames.Application.Json), Consumes(MediaTypeNames.Application.Json)]
         [SwaggerResponse(200)]
         [SwaggerResponse(400, description: "retorna: Ocorreu um erro desconhecido")]
-        public ActionResult Compras([FromBody] PagCompraDto pagCompraDto)
+        public ActionResult PagCompra([FromBody]PagCompraDto pagCompraDto)
         {
 
             return Ok(new {valor = pagCompraDto.Valor, estado = CompraEstado.Get(pagCompraDto.Valor) });

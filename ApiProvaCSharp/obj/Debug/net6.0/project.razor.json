@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\ygfcarvalho\\Documents\\Personal\\Prova_API_CSharp\\ApiProvaCSharp\\ApiProvaSharp.csproj",
+  "FilePath": "c:\\Users\\ygfcarvalho\\Documents\\Personal\\Prova_API_CSharp\\ApiProvaCSharp\\ApiProvaCSharp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "ApiProvaSharp",
+  "RootNamespace": "ApiProvaCSharp",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

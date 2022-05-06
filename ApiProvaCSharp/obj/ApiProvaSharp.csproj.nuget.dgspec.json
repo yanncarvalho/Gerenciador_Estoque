@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yann Gabriel\\Documents\\Programação\\C#\\Prova_API_CSharp\\ApiProvaCSharp\\ApiProvaSharp.csproj": {}
+    "C:\\Users\\ygfcarvalho\\Documents\\Personal\\Prova_API_CSharp\\ApiProvaCSharp\\ApiProvaSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yann Gabriel\\Documents\\Programação\\C#\\Prova_API_CSharp\\ApiProvaCSharp\\ApiProvaSharp.csproj": {
+    "C:\\Users\\ygfcarvalho\\Documents\\Personal\\Prova_API_CSharp\\ApiProvaCSharp\\ApiProvaSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yann Gabriel\\Documents\\Programação\\C#\\Prova_API_CSharp\\ApiProvaCSharp\\ApiProvaSharp.csproj",
+        "projectUniqueName": "C:\\Users\\ygfcarvalho\\Documents\\Personal\\Prova_API_CSharp\\ApiProvaCSharp\\ApiProvaSharp.csproj",
         "projectName": "ApiProvaSharp",
-        "projectPath": "C:\\Users\\Yann Gabriel\\Documents\\Programação\\C#\\Prova_API_CSharp\\ApiProvaCSharp\\ApiProvaSharp.csproj",
-        "packagesPath": "C:\\Users\\Yann Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yann Gabriel\\Documents\\Programação\\C#\\Prova_API_CSharp\\ApiProvaCSharp\\obj\\",
+        "projectPath": "C:\\Users\\ygfcarvalho\\Documents\\Personal\\Prova_API_CSharp\\ApiProvaCSharp\\ApiProvaSharp.csproj",
+        "packagesPath": "C:\\Users\\ygfcarvalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ygfcarvalho\\Documents\\Personal\\Prova_API_CSharp\\ApiProvaCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yann Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ygfcarvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,7 +1,6 @@
 using System.Text.Json.Serialization;
 namespace ApiProvaCSharp.Models
 {
-
   public class CompraEstado
   {
     [JsonConverter(typeof(JsonStringEnumConverter))]

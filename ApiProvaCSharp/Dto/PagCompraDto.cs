@@ -1,4 +1,5 @@
 using ApiProvaCSharp.Models;
+using Newtonsoft.Json;
 using System.ComponentModel.DataAnnotations;
 
 
@@ -7,11 +8,11 @@ namespace ApiProvaCSharp.Dto
      public class PagCompraDto
      {
 
-      [Required, Range(0.0d, double.PositiveInfinity)]
+      [JsonRequired, Range(0.0d, double.MaxValue)]
       public double Valor {get; set;}
 
 
-      [Required(AllowEmptyStrings = false)]
+      [JsonRequired]
       public CartaoCred? Cartao { get; set; }
 
      }
