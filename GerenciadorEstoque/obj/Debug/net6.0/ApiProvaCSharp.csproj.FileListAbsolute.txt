@@ -1,0 +1,269 @@
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\appsettings.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.exe
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.deps.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.runtimeconfig.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.pdb
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.AssemblyReference.cache
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.AssemblyInfoInputs.cache
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.AssemblyInfo.cs
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\scopedcss\bundle\GerenciadorEstoque.styles.css
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.CopyComplete
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\refint\GerenciadorEstoque.dll
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.pdb
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.genruntimeconfig.cache
+C:\Users\Yann Gabriel\Documents\Programação\C#\GerenciadorEstoque\GerenciadorEstoque\obj\Debug\net6.0\ref\GerenciadorEstoque.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\appsettings.json
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\libman.json
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.exe
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.deps.json
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.runtimeconfig.json
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.pdb
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\EntityFramework.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Google.Protobuf.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\MySql.Data.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\ZstdNet.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\System.CodeDom.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\System.Data.SqlClient.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.AssemblyReference.cache
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.AssemblyInfoInputs.cache
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.AssemblyInfo.cs
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.CoreCompileInputs.cache
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\scopedcss\bundle\GerenciadorEstoque.styles.css
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.CopyComplete
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\refint\GerenciadorEstoque.dll
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.pdb
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.genruntimeconfig.cache
+c:\Users\ygfcarvalho\Documents\Personal\Prova_API_CSharp\GerenciadorEstoque\obj\Debug\net6.0\ref\GerenciadorEstoque.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\appsettings.json
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\libman.json
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.exe
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.deps.json
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.runtimeconfig.json
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.pdb
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.AssemblyReference.cache
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.AssemblyInfoInputs.cache
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.AssemblyInfo.cs
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\scopedcss\bundle\GerenciadorEstoque.styles.css
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.CopyComplete
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\refint\GerenciadorEstoque.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.pdb
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.genruntimeconfig.cache
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\obj\Debug\net6.0\ref\GerenciadorEstoque.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yann Gabriel\Documents\temp\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\appsettings.json
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\libman.json
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.exe
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.deps.json
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.runtimeconfig.json
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\GerenciadorEstoque.pdb
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.AssemblyReference.cache
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.AssemblyInfoInputs.cache
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.AssemblyInfo.cs
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.CoreCompileInputs.cache
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\scopedcss\bundle\GerenciadorEstoque.styles.css
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.csproj.CopyComplete
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\refint\GerenciadorEstoque.dll
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.pdb
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\GerenciadorEstoque.genruntimeconfig.cache
+C:\Users\ygfcarvalho\Desktop\a\b\Gerenciador_Estoque\GerenciadorEstoque\obj\Debug\net6.0\ref\GerenciadorEstoque.dll
